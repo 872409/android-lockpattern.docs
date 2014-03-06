@@ -17,5 +17,5 @@
 
 <Module>
   <ModulePrefs title="API docs" />
-  <Content type="url" href="http://docs.android-lockpattern.googlecode.com/hg/index.html" />
+  <Content type="html" href="http://docs.android-lockpattern.googlecode.com/hg/index.html" />
 </Module>
