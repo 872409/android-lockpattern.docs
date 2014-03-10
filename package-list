@@ -1,4 +1,4 @@
-group.pals.android.lib.ui.lockpattern
-group.pals.android.lib.ui.lockpattern.collect
-group.pals.android.lib.ui.lockpattern.util
-group.pals.android.lib.ui.lockpattern.widget
+com.haibison.android.lockpattern
+com.haibison.android.lockpattern.collect
+com.haibison.android.lockpattern.util
+com.haibison.android.lockpattern.widget
